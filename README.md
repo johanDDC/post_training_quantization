@@ -11,7 +11,7 @@ Quantization API.
 I [implemented](src/models/resnet20.py) ResNet20 architecture that is described in paper 
 [Measuring what Really Matters: Optimizing Neural Networks for TinyML](https://www.researchgate.net/publication/351046093_Measuring_what_Really_Matters_Optimizing_Neural_Networks_for_TinyML).
 
-[//]: # (![]&#40;https://www.researchgate.net/profile/Zhongnan-Qu/publication/351046093/figure/fig3/AS:1015228695343106@1619060791401/ResNet-20-architecture.png&#41;)
+![](https://www.researchgate.net/profile/Zhongnan-Qu/publication/351046093/figure/fig3/AS:1015228695343106@1619060791401/ResNet-20-architecture.png)
 
 During training, I used RandAugment with 2 augmentations and magnitude 14
 (taken from paper [RandAugment: Practical automated data augmentation
